@@ -1,0 +1,14 @@
+#main-banner{
+    background-image: url("./Image/Banner\ Image.png");
+    height: 600px;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+#main-banner > h1{
+    text-align: center;
+    color: white;
+    font-size: 75px;
+    padding-top: 100px;
+}
