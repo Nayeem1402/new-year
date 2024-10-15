@@ -43,3 +43,14 @@
     color: white;
     padding: 220px 0px 0px 350px;
 }
+
+/* place section  */
+
+#Place{
+    background-color: pink;
+    margin: 20px 285px;
+    text-align: center;
+    padding: 120px 0px;
+    font-size: 34px;
+    border-radius: 30px;
+}
