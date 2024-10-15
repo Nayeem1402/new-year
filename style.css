@@ -1,4 +1,4 @@
-#main-banner{
+#main-banner {
     background-image: url("./Image/Banner\ Image.png");
     height: 600px;
     background-repeat: no-repeat;
@@ -6,9 +6,23 @@
 
 }
 
-#main-banner > h1{
+#main-banner>h1 {
     text-align: center;
     color: white;
     font-size: 75px;
     padding-top: 100px;
+}
+
+/* off-deals */
+
+#off-deals > h1 {
+    font-size: 58px;
+    color: red;
+}
+#off-deals{
+    text-align: center;
+    margin-top: 100px;
+}
+#off-deals > img{
+    width: 600px;
 }
